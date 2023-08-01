@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Averta";
+    src: url("/fonts/AvertaCY-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+* {
+    font-family: "Averta";
+}
+
+html,
+body {
+    padding: 0;
+    margin: 0;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
